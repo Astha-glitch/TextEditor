@@ -1,6 +1,7 @@
 # TextEditor
 ## Introduction
 I have made this project to apply the concept of **stack** datastructure to create a basic text editor.
+
 View the project at: https://rounakneogy.github.io/TextEditor/
 
 ## Basic Idea
