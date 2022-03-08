@@ -2,7 +2,7 @@
 ## Introduction
 I have made this project to apply the concept of **stack** datastructure to create a basic text editor.
 
-View the project at:https://rishikaghosh.github.io/TEXT-EDITOR/
+View the project at:
 ## Basic Idea
 The two main characteristics of a stack datastructure are it's **push** and **pull** operations.
 
