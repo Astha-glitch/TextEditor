@@ -1,4 +1,4 @@
-# TEXT-EDITOR
+# TextEditor
 ## Introduction
 I have made this project to apply the concept of **stack** datastructure to create a basic text editor.
 
