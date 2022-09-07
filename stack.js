@@ -5,7 +5,7 @@ export { Stack }
 class Stack{
     constructor(){
         this.size = 0; //Tells the current size of the stack
-        this.buffer = 4;
+        this.buffer = 10;
         this.stack = [];
     }
 
