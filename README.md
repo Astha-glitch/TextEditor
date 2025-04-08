@@ -4,7 +4,7 @@ I have made this project to apply the concept of **stack** datastructure to crea
 
 Deployment Link: https://rounakneogy.github.io/TextEditor/
 
-## Basic Idea
+## Basic Idea behind the project
 The two main characteristics of a stack datastructure are it's **push** and **pull** operations.
 
 If you notice carefully,in a text editor,the most basic operations include **inserting element in a sequential order**(i.e one after an another) and **deleting them one by one**.
